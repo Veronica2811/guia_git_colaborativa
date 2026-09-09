@@ -2,8 +2,7 @@
 Este repositorio es un ejercicio práctico para aprender Git en
 parejas.
 ## Objetivo
-Aprender Git de forma práctica.
-
+Dominar Git para trabajo colaborativo.
 
 ## Conceptos básicos de Git
 - Repositorio
@@ -16,3 +15,4 @@ Aprender Git de forma práctica.
 2. git add
 3. git commit
 4. git push
+
